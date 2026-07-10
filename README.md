@@ -24,4 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ekaaanshhhh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0817-linked-list-components](https://github.com/Ekaaanshhhh/DSA/tree/master/0817-linked-list-components) |
+## Hash Table
+|  |
+| ------- |
+| [0817-linked-list-components](https://github.com/Ekaaanshhhh/DSA/tree/master/0817-linked-list-components) |
+## Linked List
+|  |
+| ------- |
+| [0817-linked-list-components](https://github.com/Ekaaanshhhh/DSA/tree/master/0817-linked-list-components) |
 <!---LeetCode Topics End-->
