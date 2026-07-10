@@ -33,4 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-linked-list-components](https://github.com/Ekaaanshhhh/DSA/tree/master/0817-linked-list-components) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ekaaanshhhh/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ekaaanshhhh/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ekaaanshhhh/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
