@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Ekaaanshhhh/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ekaaanshhhh/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ekaaanshhhh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ekaaanshhhh/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ekaaanshhhh/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ekaaanshhhh/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Ekaaanshhhh/DSA/tree/master/1092-shortest-common-supersequence) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ekaaanshhhh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ekaaanshhhh/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0817-linked-list-components](https://github.com/Ekaaanshhhh/DSA/tree/master/0817-linked-list-components) |
 ## Hash Table
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ekaaanshhhh/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ekaaanshhhh/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
