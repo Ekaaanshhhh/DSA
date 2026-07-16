@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ekaaanshhhh/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ekaaanshhhh/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ekaaanshhhh/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ekaaanshhhh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ekaaanshhhh/DSA/tree/master/0070-climbing-stairs) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ekaaanshhhh/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ekaaanshhhh/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ekaaanshhhh/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
