@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ekaaanshhhh/DSA/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Ekaaanshhhh/DSA/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
