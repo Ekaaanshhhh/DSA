@@ -13,8 +13,21 @@ class Solution {
         return dp[i]=one_step+two_step;
     }
     public int climbStairs(int n) {
+        // int dp[] = new int[n+1];
+        // Arrays.fill(dp,-1);
+        // return helper(n,dp);
+
+
         int dp[] = new int[n+1];
-        Arrays.fill(dp,-1);
-        return helper(n,dp);
+        dp[0]=1;
+        for(int i=1;i<dp.length;i++){
+            int one_step = dp[i-1];
+            int two_step=0;
+            if(i>1){
+                two_step=dp[i-2];
+            }
+            dp[i]=one_step+two_step;
+        }
+        return dp[n];
     }
 }
