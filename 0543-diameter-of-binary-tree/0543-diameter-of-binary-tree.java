@@ -20,23 +20,24 @@ class Solution {
 
         int left = height(root.left);
         int right = height(root.right);
+        dia = Math.max(left+right,dia);
 
         return Math.max(left,right)+1;
     }
 
-    public void helper(TreeNode root){
-        if(root==null)return;
+    // public  int helper(TreeNode root){
+    //     if(root==null)return 0;
 
-        int left = height(root.left);
-        int right = height(root.right);
-        dia = Math.max(left+right,dia);
+    //     int left = height(root.left);
+    //     int right = height(root.right);
+    //     dia = Math.max(left+right,dia);
 
-        helper(root.left);
-        helper(root.right);
+    //     helper(root.left);
+    //     helper(root.right);
         
-    }
+    // }
     public int diameterOfBinaryTree(TreeNode root) {
-        helper(root);
+        height(root);
         return dia;
     }
 }
