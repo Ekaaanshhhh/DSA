@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ekaaanshhhh/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ekaaanshhhh/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ekaaanshhhh/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/Ekaaanshhhh/DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ekaaanshhhh/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ekaaanshhhh/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1092-shortest-common-supersequence](https://github.com/Ekaaanshhhh/DSA/tree/master/1092-shortest-common-supersequence) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ekaaanshhhh/DSA/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Ekaaanshhhh/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ekaaanshhhh/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0542-01-matrix](https://github.com/Ekaaanshhhh/DSA/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ekaaanshhhh/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0817-linked-list-components](https://github.com/Ekaaanshhhh/DSA/tree/master/0817-linked-list-components) |
 | [1331-rank-transform-of-an-array](https://github.com/Ekaaanshhhh/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ekaaanshhhh/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ekaaanshhhh/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Ekaaanshhhh/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ekaaanshhhh/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
@@ -140,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ekaaanshhhh/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Ekaaanshhhh/DSA/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
