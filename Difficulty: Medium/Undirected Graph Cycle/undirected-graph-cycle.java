@@ -7,22 +7,36 @@ class Solution {
             parent=p;
         }
     }
-    public boolean bfs(ArrayList<ArrayList<Integer>> adj,int i,boolean vis[]){
-        Queue<Pair> q = new LinkedList<>();
-        q.add(new Pair(i,-1));
+    // public boolean bfs(ArrayList<ArrayList<Integer>> adj,int i,boolean vis[]){
+    //     Queue<Pair> q = new LinkedList<>();
+    //     q.add(new Pair(i,-1));
+    //     vis[i]=true;
+    //     while(!q.isEmpty()){
+    //         Pair p = q.remove();
+    //         int node = p.child;
+    //         for(int j:adj.get(node)){
+    //             if(!vis[j]){
+    //                 vis[j]=true;
+    //                 q.add(new Pair(j,node));
+    //             }
+    //             else if(j!=p.parent && vis[j])return true;
+    //         }
+    //     }
+    //     return false;
+    // }
+    
+    
+    public boolean dfs(ArrayList<ArrayList<Integer>> adj,int i,int parent,boolean vis[]){
         vis[i]=true;
-        while(!q.isEmpty()){
-            Pair p = q.remove();
-            int node = p.child;
-            for(int j:adj.get(node)){
-                if(!vis[j]){
-                    vis[j]=true;
-                    q.add(new Pair(j,node));
-                }
-                else if(j!=p.parent && vis[j])return true;
+        for(int j:adj.get(i)){
+            if(!vis[j]){
+                if(dfs(adj,j,i,vis)==true)return true;
+            }else if(j!=parent && vis[j]){
+                return true;
             }
         }
         return false;
+        
     }
     public boolean isCycle(int V, int[][] edges) {
         // Code here
@@ -40,7 +54,7 @@ class Solution {
         Arrays.fill(vis,false);
         for(int i=0;i<vis.length;i++){
             if(!vis[i]){
-                if(bfs(adj,i,vis))return true;
+                if(dfs(adj,i,-1,vis))return true;
             }
         }
         return false;
