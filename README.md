@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Ekaaanshhhh/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ekaaanshhhh/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1092-shortest-common-supersequence](https://github.com/Ekaaanshhhh/DSA/tree/master/1092-shortest-common-supersequence) |
+| [1162-as-far-from-land-as-possible](https://github.com/Ekaaanshhhh/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ekaaanshhhh/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Array
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ekaaanshhhh/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Ekaaanshhhh/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ekaaanshhhh/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/Ekaaanshhhh/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1331-rank-transform-of-an-array](https://github.com/Ekaaanshhhh/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ekaaanshhhh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/Ekaaanshhhh/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [1020-number-of-enclaves](https://github.com/Ekaaanshhhh/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ekaaanshhhh/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/Ekaaanshhhh/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ekaaanshhhh/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Ekaaanshhhh/DSA/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/Ekaaanshhhh/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ekaaanshhhh/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/Ekaaanshhhh/DSA/tree/master/1162-as-far-from-land-as-possible) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
