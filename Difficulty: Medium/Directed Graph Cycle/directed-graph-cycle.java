@@ -25,7 +25,7 @@ class Solution {
             if(!vis[j]){
                 if(dfs(j,vis,pathVis,adj))return true;
             }
-            else if(pathVis[j])return true;
+            else if(pathVis[j] && vis[j])return true;
         }
         
         pathVis[i]=false;
