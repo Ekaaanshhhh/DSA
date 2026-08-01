@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ekaaanshhhh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0817-linked-list-components](https://github.com/Ekaaanshhhh/DSA/tree/master/0817-linked-list-components) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Ekaaanshhhh/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Linked List
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/Ekaaanshhhh/DSA/tree/master/0919-complete-binary-tree-inserter) |
 ## Depth-First Search
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Ekaaanshhhh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Ekaaanshhhh/DSA/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/Ekaaanshhhh/DSA/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/Ekaaanshhhh/DSA/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ekaaanshhhh/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Ekaaanshhhh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Ekaaanshhhh/DSA/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/Ekaaanshhhh/DSA/tree/master/0886-possible-bipartition) |
 | [0919-complete-binary-tree-inserter](https://github.com/Ekaaanshhhh/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [1020-number-of-enclaves](https://github.com/Ekaaanshhhh/DSA/tree/master/1020-number-of-enclaves) |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/Ekaaanshhhh/DSA/tree/master/0919-complete-binary-tree-inserter) |
 ## Simulation
 |  |
