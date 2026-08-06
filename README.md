@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Ekaaanshhhh/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0817-linked-list-components](https://github.com/Ekaaanshhhh/DSA/tree/master/0817-linked-list-components) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ekaaanshhhh/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Math
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ekaaanshhhh/DSA/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Ekaaanshhhh/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Ekaaanshhhh/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ekaaanshhhh/DSA/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Ekaaanshhhh/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/Ekaaanshhhh/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Ekaaanshhhh/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ekaaanshhhh/DSA/tree/master/0200-number-of-islands) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ekaaanshhhh/DSA/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Ekaaanshhhh/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/Ekaaanshhhh/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Ekaaanshhhh/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ekaaanshhhh/DSA/tree/master/0200-number-of-islands) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ekaaanshhhh/DSA/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Ekaaanshhhh/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Ekaaanshhhh/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0543-diameter-of-binary-tree) |
