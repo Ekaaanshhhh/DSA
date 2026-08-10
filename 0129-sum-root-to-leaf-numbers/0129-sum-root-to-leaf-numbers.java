@@ -14,23 +14,24 @@
  * }
  */
 class Solution {
-    int ans=0;
-    public void helper(TreeNode root,StringBuilder sb){
-        if(root==null)return;
+    public int helper(TreeNode root,StringBuilder sb){
+        if(root==null)return 0;
 
         sb.append(root.val);
         if(root.left==null && root.right==null){
-            ans = ans+Integer.parseInt(new StringBuilder(sb).toString());
+            int num = Integer.parseInt(new StringBuilder(sb).toString());
+            sb.deleteCharAt(sb.length()-1);
+            return num;
         }
-        else{
-            helper(root.left,sb);
-            helper(root.right,sb);
-        }
+        int left=helper(root.left,sb);
+        int right=helper(root.right,sb);
+
         sb.deleteCharAt(sb.length()-1);
+
+        return left+right;
     }
     public int sumNumbers(TreeNode root) {
         StringBuilder sb = new StringBuilder();
-        helper(root,sb);
-        return ans;
+        return helper(root,sb);
     }
 }
