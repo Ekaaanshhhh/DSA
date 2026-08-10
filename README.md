@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ekaaanshhhh/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/Ekaaanshhhh/DSA/tree/master/0919-complete-binary-tree-inserter) |
 ## Depth-First Search
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ekaaanshhhh/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/Ekaaanshhhh/DSA/tree/master/0919-complete-binary-tree-inserter) |
 ## Simulation
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Ekaaanshhhh/DSA/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ekaaanshhhh/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
