@@ -11,47 +11,38 @@ class Node {
 }
 */
 class Solution {
-    class Element{
-        Node root;int dist;
-        public Element(Node root,int dist){
+    class Pair{
+        Node root;
+        int hd;
+        public Pair(Node root,int hd){
             this.root = root;
-            this.dist = dist;
+            this.hd = hd;
         }
     }
     public ArrayList<Integer> topView(Node root) {
         // code here
-       Queue<Element> q = new LinkedList<>();
-       q.add(new Element(root,0));
-       ArrayList<Integer> left = new ArrayList<>();
-       ArrayList<Integer> right = new ArrayList<>();
-       HashSet<Integer> set = new HashSet<>();
-       set.add(0);
-       while(!q.isEmpty()){
-           int k = q.size();
-           for(int i=0;i<k;i++){
-                Node top = q.peek().root;
-                int hd = q.peek().dist;
-                q.remove();
-                if(top.left!=null){
-                    if(!set.contains(hd-1)){
-                        left.add(top.left.data);
-                        set.add(hd-1);
-                    }
-                    q.add(new Element(top.left,hd-1));
+        Queue<Pair> q = new LinkedList<>();
+        if(root==null)return new ArrayList<>();
+        q.add(new Pair(root,0));
+        TreeMap<Integer,Integer> map = new TreeMap<>();
+        while(!q.isEmpty()){
+            int k = q.size();
+            for(int i=0;i<k;i++){
+                Pair p = q.remove();
+                Node top = p.root;
+                int hd = p.hd;
+                if(!map.containsKey(hd)){
+                    map.put(hd,top.data);
                 }
-                if(top.right!=null){
-                    if(!set.contains(hd+1)){
-                        right.add(top.right.data);
-                        set.add(hd+1);
-                    }
-                    q.add(new Element(top.right,hd+1));
-                }
-           }
-       }
-       Collections.reverse(left);
-       left.add(root.data);
-       left.addAll(right);
-       
-       return left;
+                if(top.left!=null)q.add(new Pair(top.left,hd-1));
+                if(top.right!=null)q.add(new Pair(top.right,hd+1));
+            }
+        }
+        ArrayList<Integer> ans = new ArrayList<>();
+        for(int key:map.keySet()){
+            ans.add(map.get(key));
+        }
+        
+        return ans;
     }
 }
