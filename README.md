@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/Ekaaanshhhh/DSA/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/Ekaaanshhhh/DSA/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ekaaanshhhh/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ekaaanshhhh/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
