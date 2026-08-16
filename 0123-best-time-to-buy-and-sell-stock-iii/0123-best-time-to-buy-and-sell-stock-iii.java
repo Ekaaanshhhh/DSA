@@ -1,42 +1,23 @@
 class Solution {
-    // public int helper(int i,int buy,int count,int prices[],int dp[][][]){
-    //     if(i==prices.length){
-    //         return 0;
-    //     }
-    //     if(dp[i][buy][count]!=-1)return dp[i][buy][count];
-    //     if(buy==1 && count>0){
-    //         return dp[i][buy][count]=Math.max(-prices[i]+helper(i+1,0,count-1,prices,dp),helper(i+1,1,count,prices,dp));
-    //     }
-    //     else if(buy==0){
-    //         return dp[i][buy][count]=Math.max(prices[i]+helper(i+1,1,count,prices,dp),helper(i+1,0,count,prices,dp));
-    //     }else{
-    //         return dp[i][buy][count]=0;
-    //     }
-    // }
     public int maxProfit(int[] prices) {
-        // int dp[][][] = new int[prices.length][2][3];
-        // for(int i=0;i<dp.length;i++){
-        //     for(int j=0;j<dp[0].length;j++){
-        //         Arrays.fill(dp[i][j],-1);
-        //     }
-        // }
-        // return helper(0,1,2,prices,dp);
-
-        int n = prices.length;
-        int dp[][][] = new int[n+1][2][3];
-        for(int i=n-1;i>=0;i--){
-            for(int j=0;j<2;j++){
-                for(int k=0;k<3;k++){
-                    if(j==1 && k>0){
-                        dp[i][j][k]=Math.max(-prices[i]+dp[i+1][0][k-1],dp[i+1][1][k]);
-                    }else if(j==0){
-                        dp[i][j][k]=Math.max(prices[i]+dp[i+1][1][k],dp[i+1][0][k]);
-                    }else{
-                        dp[i][j][k]=0;
-                    }
-                }
+        int dp[][][] = new int[prices.length+1][3][2];
+        for(int i=0;i<dp.length;i++){
+            for(int j=0;j<dp[0].length;j++){
+                Arrays.fill(dp[i][j],-1);
             }
         }
-        return dp[0][1][2];
+        return helper(prices,2,0,0,dp);
+    }
+    public int helper(int arr[],int k,int i,int buy,int dp[][][]){
+        if(i==arr.length){
+            return 0;
+        }
+        if(k==0)return 0;
+        if(dp[i][k][buy]!=-1)return dp[i][k][buy];
+        if(buy==1){
+            return dp[i][k][buy]=Math.max(arr[i]+helper(arr,k-1,i+1,0,dp),helper(arr,k,i+1,buy,dp));
+        }else{
+            return dp[i][k][buy]=Math.max(-arr[i]+helper(arr,k,i+1,1,dp),helper(arr,k,i+1,buy,dp));
+        }
     }
 }
