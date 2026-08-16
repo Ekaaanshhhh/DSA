@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ekaaanshhhh/DSA/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Ekaaanshhhh/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Ekaaanshhhh/DSA/tree/master/0217-contains-duplicate) |
+| [0289-game-of-life](https://github.com/Ekaaanshhhh/DSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Ekaaanshhhh/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ekaaanshhhh/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ekaaanshhhh/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Ekaaanshhhh/DSA/tree/master/0289-game-of-life) |
 | [2390-removing-stars-from-a-string](https://github.com/Ekaaanshhhh/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Union-Find
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ekaaanshhhh/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ekaaanshhhh/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ekaaanshhhh/DSA/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/Ekaaanshhhh/DSA/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ekaaanshhhh/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Ekaaanshhhh/DSA/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/Ekaaanshhhh/DSA/tree/master/1020-number-of-enclaves) |
