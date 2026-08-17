@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Ekaaanshhhh/DSA/tree/master/0938-range-sum-of-bst) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ekaaanshhhh/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ekaaanshhhh/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1609-even-odd-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ekaaanshhhh/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ekaaanshhhh/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ekaaanshhhh/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1609-even-odd-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1609-even-odd-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/Ekaaanshhhh/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [0938-range-sum-of-bst](https://github.com/Ekaaanshhhh/DSA/tree/master/0938-range-sum-of-bst) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ekaaanshhhh/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1609-even-odd-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1609-even-odd-tree) |
 ## Simulation
 |  |
 | ------- |
