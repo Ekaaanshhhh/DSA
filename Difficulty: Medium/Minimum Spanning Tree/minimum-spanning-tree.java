@@ -1,54 +1,39 @@
 class Solution {
-    class Pair{
-        int node;
-        int wt;
-        Pair(int node,int wt){
-            this.node = node;
-            this.wt = wt;
+    class DisjointSet{
+        int parent[];
+        public DisjointSet(int n){
+            parent = new int[n];
+            for(int i=0;i<parent.length;i++)parent[i]=i;
         }
-    }
-    class Element implements Comparable<Element>{
-        int wt;
-        int node;
-        int parent;
-        public Element(int w,int n,int p){
-            wt = w;
-            node = n;
-            parent = p;
+        
+        public int findParent(int u){
+            if(u==parent[u])return u;
+            return parent[u]=findParent(parent[u]);
         }
-        public int compareTo(Element that){
-            return Integer.compare(this.wt,that.wt);
+        
+        public void union(int u,int v){
+            if(findParent(u)==findParent(v)){
+                return;
+            }
+            
+            parent[findParent(u)]=parent[findParent(v)]; 
         }
     }
     public int spanningTree(int V, int[][] edges) {
         // code here
-        ArrayList<ArrayList<Pair>> adj = new ArrayList<>();
-        for(int i=0;i<V;i++)adj.add(new ArrayList<>());
+        //kruskla's algo
+        DisjointSet ds = new DisjointSet(V);
+        Arrays.sort(edges,Comparator.comparingDouble(o->o[2]));
+        int ans=0;
         
         for(int i=0;i<edges.length;i++){
-            adj.get(edges[i][0]).add(new Pair(edges[i][1],edges[i][2]));
-            adj.get(edges[i][1]).add(new Pair(edges[i][0],edges[i][2]));
-        }
-        int vis[] = new int[V];
-        return prim(adj,vis);
-    }
-    public int prim(ArrayList<ArrayList<Pair>> adj,int vis[]){
-        PriorityQueue<Element> pq = new PriorityQueue<>(); 
-        pq.add(new Element(0,0,-1));
-        int ans = 0;
-        while(!pq.isEmpty()){
-            Element e = pq.remove();
-            int node = e.node;
-            int wt = e.wt;
-            int parent = e.parent;
-            if(vis[node]==1)continue;
-            vis[node]=1;
-            ans = ans+wt;
-            for(Pair j:adj.get(node)){
-                if(vis[j.node]==0){
-                    pq.add(new Element(j.wt,j.node,node));
-                }
+            int u = edges[i][0];
+            int v = edges[i][1];
+            if(ds.findParent(u)==ds.findParent(v)){
+                continue;
             }
+            ans = ans+edges[i][2];
+            ds.union(u,v);
         }
         return ans;
     }
