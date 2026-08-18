@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/Ekaaanshhhh/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [0938-range-sum-of-bst](https://github.com/Ekaaanshhhh/DSA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ekaaanshhhh/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ekaaanshhhh/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1609-even-odd-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1609-even-odd-tree) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Ekaaanshhhh/DSA/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/Ekaaanshhhh/DSA/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ekaaanshhhh/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ekaaanshhhh/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ekaaanshhhh/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/Ekaaanshhhh/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [1020-number-of-enclaves](https://github.com/Ekaaanshhhh/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ekaaanshhhh/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/Ekaaanshhhh/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ekaaanshhhh/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ekaaanshhhh/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/Ekaaanshhhh/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [0938-range-sum-of-bst](https://github.com/Ekaaanshhhh/DSA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ekaaanshhhh/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1609-even-odd-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1609-even-odd-tree) |
 ## Simulation
