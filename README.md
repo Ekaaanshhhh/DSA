@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ekaaanshhhh/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ekaaanshhhh/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ekaaanshhhh/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ekaaanshhhh/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ekaaanshhhh/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1905-count-sub-islands](https://github.com/Ekaaanshhhh/DSA/tree/master/1905-count-sub-islands) |
 ## Breadth-First Search
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ekaaanshhhh/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ekaaanshhhh/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ekaaanshhhh/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1609-even-odd-tree) |
 | [1905-count-sub-islands](https://github.com/Ekaaanshhhh/DSA/tree/master/1905-count-sub-islands) |
 ## Binary Tree
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ekaaanshhhh/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1609-even-odd-tree) |
 ## Simulation
 |  |
