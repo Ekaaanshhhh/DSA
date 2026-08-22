@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ekaaanshhhh/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ekaaanshhhh/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ekaaanshhhh/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ekaaanshhhh/DSA/tree/master/0115-distinct-subsequences) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ekaaanshhhh/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ekaaanshhhh/DSA/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ekaaanshhhh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ekaaanshhhh/DSA/tree/master/0877-stone-game) |
@@ -423,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ekaaanshhhh/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
