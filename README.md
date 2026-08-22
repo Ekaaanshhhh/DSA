@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Ekaaanshhhh/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Ekaaanshhhh/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Ekaaanshhhh/DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Ekaaanshhhh/DSA/tree/master/0079-word-search) |
