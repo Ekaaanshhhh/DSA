@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ekaaanshhhh/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ekaaanshhhh/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ekaaanshhhh/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ekaaanshhhh/DSA/tree/master/0072-edit-distance) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ekaaanshhhh/DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Ekaaanshhhh/DSA/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Ekaaanshhhh/DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Ekaaanshhhh/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Ekaaanshhhh/DSA/tree/master/0079-word-search) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ekaaanshhhh/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ekaaanshhhh/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ekaaanshhhh/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Bit Manipulation
