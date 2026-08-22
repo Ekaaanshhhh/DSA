@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ekaaanshhhh/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ekaaanshhhh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1905-count-sub-islands](https://github.com/Ekaaanshhhh/DSA/tree/master/1905-count-sub-islands) |
+| [4015-weighted-sum-of-a-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/4015-weighted-sum-of-a-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1609-even-odd-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ekaaanshhhh/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [4015-weighted-sum-of-a-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/4015-weighted-sum-of-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1905-count-sub-islands](https://github.com/Ekaaanshhhh/DSA/tree/master/1905-count-sub-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ekaaanshhhh/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [4015-weighted-sum-of-a-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/4015-weighted-sum-of-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
