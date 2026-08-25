@@ -18,20 +18,36 @@ class FindElements {
     HashSet<Integer> set = new HashSet<>();
     public FindElements(TreeNode root) {
         this.root = root;
-        helper(root,0);
+        helper(root);
+
     }
     
     public boolean find(int target) {
         return set.contains(target);
     }
 
-    public void helper(TreeNode root,int value){
-       if(root==null)return;
-
-       root.val = value;
-       set.add(root.val);
-       helper(root.left,2*root.val+1);
-       helper(root.right,2*root.val+2);
+    public void helper(TreeNode root){
+        if(root==null)return;
+        set.add(0);
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
+        root.val=0;
+        while(!q.isEmpty()){
+            int k = q.size();
+            for(int i=0;i<k;i++){
+                TreeNode top = q.remove();
+                if(top.left!=null){
+                    top.left.val = top.val*2+1;
+                    q.add(top.left);
+                    set.add(top.left.val);
+                }
+                if(top.right!=null){
+                    top.right.val = top.val*2+2;
+                    q.add(top.right);
+                    set.add(top.right.val);
+                }
+            }
+        }
     }
 }
 
