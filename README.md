@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Ekaaanshhhh/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ekaaanshhhh/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Ekaaanshhhh/DSA/tree/master/1092-shortest-common-supersequence) |
+| [1138-alphabet-board-path](https://github.com/Ekaaanshhhh/DSA/tree/master/1138-alphabet-board-path) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ekaaanshhhh/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2390-removing-stars-from-a-string](https://github.com/Ekaaanshhhh/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/Ekaaanshhhh/DSA/tree/master/0817-linked-list-components) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Ekaaanshhhh/DSA/tree/master/1110-delete-nodes-and-return-forest) |
+| [1138-alphabet-board-path](https://github.com/Ekaaanshhhh/DSA/tree/master/1138-alphabet-board-path) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Ekaaanshhhh/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ekaaanshhhh/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
