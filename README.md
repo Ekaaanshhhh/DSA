@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/Ekaaanshhhh/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1331-rank-transform-of-an-array](https://github.com/Ekaaanshhhh/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ekaaanshhhh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/Ekaaanshhhh/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1905-count-sub-islands](https://github.com/Ekaaanshhhh/DSA/tree/master/1905-count-sub-islands) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ekaaanshhhh/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [4015-weighted-sum-of-a-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/4015-weighted-sum-of-a-tree) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ekaaanshhhh/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ekaaanshhhh/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ekaaanshhhh/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/Ekaaanshhhh/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Memoization
 |  |
 | ------- |
