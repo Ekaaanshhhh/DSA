@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Ekaaanshhhh/DSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Ekaaanshhhh/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ekaaanshhhh/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0347-top-k-frequent-elements](https://github.com/Ekaaanshhhh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ekaaanshhhh/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Ekaaanshhhh/DSA/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ekaaanshhhh/DSA/tree/master/0463-island-perimeter) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ekaaanshhhh/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Ekaaanshhhh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Ekaaanshhhh/DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Ekaaanshhhh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ekaaanshhhh/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0817-linked-list-components](https://github.com/Ekaaanshhhh/DSA/tree/master/0817-linked-list-components) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ekaaanshhhh/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ekaaanshhhh/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ekaaanshhhh/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Ekaaanshhhh/DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Ekaaanshhhh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ekaaanshhhh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ekaaanshhhh/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Ekaaanshhhh/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ekaaanshhhh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Ekaaanshhhh/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ekaaanshhhh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ekaaanshhhh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -470,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ekaaanshhhh/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ekaaanshhhh/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ekaaanshhhh/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/Ekaaanshhhh/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -563,4 +568,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ekaaanshhhh/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ekaaanshhhh/DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ekaaanshhhh/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ekaaanshhhh/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
