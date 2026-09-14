@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ekaaanshhhh/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ekaaanshhhh/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0143-reorder-list](https://github.com/Ekaaanshhhh/DSA/tree/master/0143-reorder-list) |
 | [0817-linked-list-components](https://github.com/Ekaaanshhhh/DSA/tree/master/0817-linked-list-components) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ekaaanshhhh/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Math
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Ekaaanshhhh/DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ekaaanshhhh/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ekaaanshhhh/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2390-removing-stars-from-a-string](https://github.com/Ekaaanshhhh/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ekaaanshhhh/DSA/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/Ekaaanshhhh/DSA/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/Ekaaanshhhh/DSA/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ekaaanshhhh/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Directed Acyclic Graph
@@ -600,4 +603,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ekaaanshhhh/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Ekaaanshhhh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Ekaaanshhhh/DSA/tree/master/0525-contiguous-array) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Ekaaanshhhh/DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
